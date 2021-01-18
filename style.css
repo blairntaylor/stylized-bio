@@ -1,0 +1,51 @@
+body {
+  background-image: url("background.jpg");
+  background-color: teal;
+}
+
+nav {
+  height: 100px;
+}
+
+.container-fluid {
+  padding-left: 30px;
+}
+
+.nav-link {
+  font-size: 16px;
+}
+
+.col-sm-7 {
+  background-color: floralwhite;
+}
+
+h1 {
+  color: rgb(172, 113, 228);
+  font-family: "Amaranth", sans-serif;
+  font-size: 40px;
+}
+
+h5 {
+  color: rgb(97, 37, 218);
+}
+
+h6 {
+  color: floralwhite;
+}
+
+.content {
+  height: 400px;
+  padding: 10px;
+}
+
+img {
+  float: left;
+  padding-right: 20px;
+  margin: 5px;
+}
+
+footer {
+  height: 50px;
+  background-color: rgb(172, 113, 228);
+  padding: 15px 5px 5px 30px;
+}
