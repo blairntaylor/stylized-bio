@@ -5,7 +5,7 @@ Homework 2 README.md file
 
 This README file is describing Homework 2, the challenges and getting close to the finished project.
 
-A couple of things this homework project incorporated were: Bootstrap layout, Google fonts, rows & columns, and an external css file.
+A couple of things this homework project incorporated into the required pages (index, contact and portfolio), they were: Bootstrap layout, Google fonts, rows & columns, and an external css file.
 
 The Bootstrap css was linked in the head tag. I used it to pull down the Nav style. I also used the 12 column grid structure for the content container.
 
