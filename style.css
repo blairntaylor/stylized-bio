@@ -7,6 +7,10 @@ nav {
   height: 100px;
 }
 
+.navbar-nav {
+  margin-left: auto;
+}
+
 .container-fluid {
   padding-left: 50px;
 }
