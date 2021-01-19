@@ -8,15 +8,27 @@ nav {
 }
 
 .container-fluid {
-  padding-left: 30px;
+  padding-left: 50px;
 }
 
 .nav-link {
   font-size: 16px;
 }
 
+.container-1 {
+  padding: 50px;
+}
+
 .col-sm-7 {
   background-color: floralwhite;
+}
+
+.navbar-brand {
+  background-color: rgb(172, 113, 228);
+}
+
+a {
+  color: floralwhite;
 }
 
 h1 {
@@ -33,9 +45,9 @@ h6 {
   color: floralwhite;
 }
 
-.content {
-  height: 400px;
-  padding: 10px;
+.container-2 {
+  height: auto;
+  padding: 30px;
 }
 
 img {
