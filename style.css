@@ -27,6 +27,12 @@ nav {
   height: auto;
   padding: 30px;
 }
+/* 
+.container-3 {
+  background-color: rgb(172, 113, 228);
+  width: 1000px;
+  padding: 30px;
+} */
 
 .col-sm-7 {
   background-color: floralwhite;
@@ -51,6 +57,7 @@ h5 {
 
 h6 {
   color: floralwhite;
+  text-align: center;
 }
 
 p.text-1,
@@ -67,11 +74,12 @@ img {
 footer {
   height: 50px;
   background-color: rgb(172, 113, 228);
-  padding: 15px 5px 5px 30px;
-  border-top: midnightblue 5px;
+  padding-top: 5px;
+  border-top: rgb(73, 73, 196) solid 3px;
 }
 
 .card {
   margin-left: 10px;
   margin-top: 10px;
+  float: right;
 }
