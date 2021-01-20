@@ -16,6 +16,6 @@ Overall, I struggled with the layout and where to use the column and row grid el
 
 My external css doc describes several different elements I restyled. I worked to add a background image as my body style. Also, some height, width, padding, margin, background-color, and text colors.
 
-This project also required practing go between github.com repo, the local repo, and pushing back in which I tried to do 6+ times. I did have to look back at prior lectures to ensure I was getting it correct. Using VS to copy/paste the SSH code was easier than the git bash terminal for some reason.
+This project also required practing go between github.com repo, the local repo, and pushing back in to commit which I tried to do 6+ times. I did have to look back at prior lectures to ensure I was getting it correct. Using VS to copy/paste the SSH code was easier than the git bash terminal for some reason.
 
 Overall, I am satisfied with the result. I see I need to practice more with the responsiveness and making the accessibility better.

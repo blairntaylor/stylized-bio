@@ -1,6 +1,10 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
   background-image: url("background.jpg");
-  background-color: teal;
+  background-color: rgb(73, 73, 196);
 }
 
 nav {
@@ -27,14 +31,21 @@ nav {
   height: auto;
   padding: 30px;
 }
+
+.content-portfolio {
+  background-color: floralwhite;
+}
 /* 
-.container-3 {
+.col-sm-11 {
   background-color: rgb(172, 113, 228);
-  width: 1000px;
-  padding: 30px;
+  padding: 50px;
 } */
 
 .col-sm-7 {
+  background-color: floralwhite;
+}
+
+.col-sm-10 {
   background-color: floralwhite;
 }
 
@@ -79,7 +90,22 @@ footer {
 }
 
 .card {
-  margin-left: 10px;
-  margin-top: 10px;
-  float: right;
+  float:left;
+  margin:20px 10px 20px 50px;
 }
+
+.card-title {
+  color:  rgb(73, 73, 196) solid 3px;
+  font-weight: bold;
+}
+
+
+/*
+  These rules take effect when the browser's width
+  is either 800px or less.
+*/
+@media screen and (max-width: 800px) {
+  /* The body's bg color will be purple
+  body {
+    background-color: rgb(73, 73, 196);
+  }
