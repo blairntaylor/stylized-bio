@@ -20,9 +20,9 @@ My external css doc describes several different elements I restyled. I worked to
 
 This project also required practing go between github.com repo, the local repo, and pushing back in to commit which I tried to do 6+ times. I did have to look back at prior lectures to ensure I was getting it correct. Using VS to copy/paste the SSH code was easier than the git bash terminal for some reason.
 
-Overall, I am satisfied with the result. I see I need to practice more with the responsiveness and making the accessibility better.
+Overall, I am satisfied with the result. I need to practice more with the responsiveness and making the accessibility better.
 
-See below for several screenshots at different screen sizes.
+See attached files for several screenshots at different screen sizes.
 
 <img src="Stylized-bio-lrg.png" alt="Screenshot large">
 <img src="Stylized-bio-sm.png" alt="Screenshot small">
